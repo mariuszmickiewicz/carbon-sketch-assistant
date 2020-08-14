@@ -129,8 +129,6 @@ const assistant: AssistantPackage = [
                 rowHeightMultiplication: 0,
                 totalWidth: 384
               },
-
-
             ]
           },
         },
