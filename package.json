@@ -1,6 +1,6 @@
 {
   "name": "carbon-design-system",
-  "homepage": "https://github.com/sketch-hq/sketch-assistant-template",
+  "homepage": "https://github.com/mariuszmickiewicz/carbon-sketch-assistants",
   "version": "1.0.0",
   "main": "dist/index.js",
   "sketch": "dist/sketch.js",
@@ -11,7 +11,7 @@
     "icon": "icon.png"
   },
   "author": {
-    "name": "IBM"
+    "name": "Mariusz"
   },
   "keywords": [
     "sketch",
