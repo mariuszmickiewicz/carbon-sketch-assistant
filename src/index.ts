@@ -131,6 +131,14 @@ const assistant: AssistantPackage = [
               },
             ]
           },
+
+          '@sketch-hq/sketch-core-assistant/artboards-grid': {
+            active: true,
+            grids: [
+              { "gridBlockSize": 8, "thickLinesEvery": 0 }
+            ]
+          },
+
         },
       },
     }
