@@ -1,17 +1,17 @@
 {
-  "name": "sketch-assistant-template",
+  "name": "carbon-design-system",
   "homepage": "https://github.com/sketch-hq/sketch-assistant-template",
   "version": "1.0.0",
   "main": "dist/index.js",
   "sketch": "dist/sketch.js",
   "license": "MIT",
   "sketch-assistant": {
-    "title": "Sketch Assistant Template",
-    "description": "Template repository for a starter Assistant project",
-    "icon": ""
+    "title": "Carbon Design System",
+    "description": "Keeps your document in line with Carbon Design System Sketch rules",
+    "icon": "icon.png"
   },
   "author": {
-    "name": "Your Name or Company Name"
+    "name": "IBM"
   },
   "keywords": [
     "sketch",
@@ -44,6 +44,7 @@
     "webpack-cli": "3.3.12"
   },
   "dependencies": {
-    "@sketch-hq/sketch-assistant-types": "6.0.0"
+    "@sketch-hq/sketch-assistant-types": "6.0.0",
+    "@sketch-hq/sketch-core-assistant": "^6.1.0"
   }
 }

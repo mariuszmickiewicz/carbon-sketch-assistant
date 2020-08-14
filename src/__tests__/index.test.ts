@@ -3,11 +3,11 @@ import { testAssistant } from '@sketch-hq/sketch-assistant-utils'
 
 import Assistant from '..'
 
-test('test assistant', async () => {
+test('carbon-design-system', async () => {
   const { violations, ruleErrors } = await testAssistant(
-    resolve(__dirname, './empty.sketch'),
+    resolve(__dirname, './artboards-layout.sketch'),
     Assistant,
   )
-  expect(violations[0].message).toBe('Hello world')
+  expect(violations).toHaveLength(0)
   expect(ruleErrors).toHaveLength(0)
 })
