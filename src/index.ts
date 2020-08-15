@@ -139,6 +139,16 @@ const assistant: AssistantPackage = [
             ]
           },
 
+          '@sketch-hq/sketch-core-assistant/library-layer-styles-allowed-libraries': {
+            "active": true,
+            "libraries": ["Carbon Design System (White theme)", "Carbon Design System (Gray 10 theme)", "Carbon Design System (Gray 90 theme)", "Carbon Design System (Gray 100 theme)", "IBM Design Language v2", "IBM Icons (16px, 20px)", "IBM Icons (24px, 32px)"]
+          },
+
+          '@sketch-hq/sketch-core-assistant/library-text-styles-allowed-libraries': {
+            "active": true,
+            "libraries": ["Carbon Design System (White theme)", "Carbon Design System (Gray 10 theme)", "Carbon Design System (Gray 90 theme)", "Carbon Design System (Gray 100 theme)", "IBM Design Language v2"]
+          },
+
         },
       },
     }
