@@ -1,4 +1,5 @@
-# Carbon Sketch assistants
+# Carbon Sketch assistant
+[Add this assistant to your Sketch file](sketch://add-assistant?url=https://mariuszmickiewicz.github.io/carbon-sketch-assistants/public/carbon-design-system.tgz)
 
 
 ### artboards-grid
