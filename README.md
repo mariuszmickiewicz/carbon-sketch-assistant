@@ -1,6 +1,4 @@
 # Carbon Sketch assistant
-[Add this assistant to your Sketch file](sketch://add-assistant?url=https://mariuszmickiewicz.github.io/carbon-sketch-assistants/public/carbon-design-system.tgz)
-
 
 ### artboards-grid
 Any artboard without a grid setting, or with a grid setting not present in the list, results in a violation.
