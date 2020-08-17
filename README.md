@@ -1,6 +1,6 @@
 # Carbon Sketch assistant
 ### Add it to Sketch
-* [Download the file](https://mariuszmickiewicz.github.io/carbon-sketch-assistant/public/carbon-design-system.tgz)
+* [Download Carbon Sketch Assistant](https://mariuszmickiewicz.github.io/carbon-sketch-assistant/public/carbon-design-system.tgz)
 * Open Assistants window in Sketch, then > Cogwheel icon > Manage assistans… > Cogwheel icon > Add from url… and select the file you downloaded above   
 * Or add `sketch://add-assistant?url=` in front of the link above and run it in your browser (it will open Sketch and add the assistant automatically).
 
