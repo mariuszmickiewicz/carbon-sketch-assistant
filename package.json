@@ -1,7 +1,7 @@
 {
   "name": "carbon-design-system",
   "homepage": "https://github.com/mariuszmickiewicz/carbon-sketch-assistants",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "sketch": "dist/sketch.js",
   "license": "MIT",
@@ -11,7 +11,7 @@
     "icon": "https://mariuszmickiewicz.github.io/carbon-sketch-assistant/public/icon.png"
   },
   "author": {
-    "name": "Mariusz"
+    "name": "Mariusz Mickiewicz"
   },
   "keywords": [
     "sketch",

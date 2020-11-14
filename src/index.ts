@@ -149,6 +149,32 @@ const assistant: AssistantPackage = [
             "libraries": ["Carbon Design System (White theme)", "Carbon Design System (Gray 10 theme)", "Carbon Design System (Gray 90 theme)", "Carbon Design System (Gray 100 theme)", "IBM Design Language v2"]
           },
 
+          '@sketch-hq/sketch-core-assistant/text-styles-prefer-shared': {
+            "active": true,
+            "maxIdentical": 1
+          },
+
+          '@sketch-hq/sketch-core-assistant/layer-styles-no-dirty': {
+            "active": true,
+          },
+
+          '@sketch-hq/sketch-core-assistant/text-styles-no-dirty': {
+            "active": true,
+          },
+
+          '@sketch-hq/sketch-core-assistant/fills-no-disabled': {
+            "active": true,
+          },
+
+          '@sketch-hq/sketch-core-assistant/borders-no-disabled': {
+            "active": true,
+          },
+
+          '@sketch-hq/sketch-core-assistant/shadows-no-disabled': {
+            "active": true,
+          },
+
+
         },
       },
     }
