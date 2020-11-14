@@ -1,7 +1,7 @@
 {
   "name": "carbon-design-system",
   "homepage": "https://github.com/mariuszmickiewicz/carbon-sketch-assistants",
-  "version": "1.0.3",
+  "version": "1.0.31",
   "main": "dist/index.js",
   "sketch": "dist/sketch.js",
   "license": "MIT",
