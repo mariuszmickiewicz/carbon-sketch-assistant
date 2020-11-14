@@ -149,6 +149,12 @@ const assistant: AssistantPackage = [
             "libraries": ["Carbon Design System (White theme)", "Carbon Design System (Gray 10 theme)", "Carbon Design System (Gray 90 theme)", "Carbon Design System (Gray 100 theme)", "IBM Design Language v2"]
           },
 
+          '@sketch-hq/sketch-core-assistant/name-pattern-groups': {
+            "active": true,
+            "allowed": [],
+            "forbidden": ['^Group$'],
+          },
+
           '@sketch-hq/sketch-core-assistant/layer-styles-no-dirty': {
             "active": true,
           },
