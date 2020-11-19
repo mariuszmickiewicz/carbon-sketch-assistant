@@ -150,45 +150,45 @@ const assistant: AssistantPackage = [
           },
 
           '@sketch-hq/sketch-core-assistant/name-pattern-groups': {
-            "active": true,
+            "active": false,
             "allowed": [],
             "forbidden": ['^Group$'],
           },
 
           '@sketch-hq/sketch-core-assistant/layer-styles-no-dirty': {
-            "active": true,
+            "active": false,
           },
 
           '@sketch-hq/sketch-core-assistant/text-styles-no-dirty': {
-            "active": true,
+            "active": false,
           },
 
           '@sketch-hq/sketch-core-assistant/fills-no-disabled': {
-            "active": true,
+            "active": false,
           },
 
           '@sketch-hq/sketch-core-assistant/borders-no-disabled': {
-            "active": true,
+            "active": false,
           },
 
           '@sketch-hq/sketch-core-assistant/shadows-no-disabled': {
-            "active": true,
+            "active": false,
           },
 
           '@sketch-hq/sketch-core-assistant/inner-shadows-no-disabled': {
-            "active": true,
+            "active": false,
           },
 
           '@sketch-hq/sketch-core-assistant/layers-no-loose': {
-            "active": true,
+            "active": false,
           },
 
           '@sketch-hq/sketch-core-assistant/groups-no-empty': {
-            "active": true,
+            "active": false,
           },
 
           '@sketch-hq/sketch-core-assistant/groups-no-redundant': {
-            "active": true,
+            "active": false,
           },
 
 
